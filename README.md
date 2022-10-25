@@ -3,15 +3,14 @@
   <header>
     </header>
 
-    <!-- where all of our main content goes -->
+   
     <main>
 
-        <section id="hero">
+        <section>
 
            
             <p>
-                Belal Tamraz<br>
-                Franklin, Nj  
+                This file or site was created for my midterm  
             </p>
 
         </section>
