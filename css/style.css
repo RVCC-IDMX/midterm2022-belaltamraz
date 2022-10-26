@@ -1,11 +1,12 @@
 h1 {
     font-family:"Roboto";
-    color: rgb(62, 186, 186);
-    background-color: #0b22d4;
 } 
+body{
 
-body {
-    background-color: #eb8d00;
+    background-color: aqua;
 
+}
+.box{
 
+    border: 1px solid purple;
 }
